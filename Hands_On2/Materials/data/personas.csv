@@ -1,0 +1,26 @@
+"persona","label","endpoint","weight"
+"trial_equal","Trial-like: equal DYSM / NMPP / NoHF / BMDok; DYSP off","DYSM",1
+"trial_equal","Trial-like: equal DYSM / NMPP / NoHF / BMDok; DYSP off","NMPP",1
+"trial_equal","Trial-like: equal DYSM / NMPP / NoHF / BMDok; DYSP off","DYSP",0
+"trial_equal","Trial-like: equal DYSM / NMPP / NoHF / BMDok; DYSP off","NoHF",1
+"trial_equal","Trial-like: equal DYSM / NMPP / NoHF / BMDok; DYSP off","BMDok",1
+"dyspareunia_priority","Dyspareunia matters: DYSP weight = 2, others = 1","DYSM",1
+"dyspareunia_priority","Dyspareunia matters: DYSP weight = 2, others = 1","NMPP",1
+"dyspareunia_priority","Dyspareunia matters: DYSP weight = 2, others = 1","DYSP",2
+"dyspareunia_priority","Dyspareunia matters: DYSP weight = 2, others = 1","NoHF",1
+"dyspareunia_priority","Dyspareunia matters: DYSP weight = 2, others = 1","BMDok",1
+"dce_average","DCE average patient (Poulos 2019 weights)","DYSM",1.48
+"dce_average","DCE average patient (Poulos 2019 weights)","NMPP",1.49
+"dce_average","DCE average patient (Poulos 2019 weights)","DYSP",1.7
+"dce_average","DCE average patient (Poulos 2019 weights)","NoHF",3.62
+"dce_average","DCE average patient (Poulos 2019 weights)","BMDok",0.49
+"pain_dominant","Pain-dominant patient","DYSM",2
+"pain_dominant","Pain-dominant patient","NMPP",2
+"pain_dominant","Pain-dominant patient","DYSP",2
+"pain_dominant","Pain-dominant patient","NoHF",1
+"pain_dominant","Pain-dominant patient","BMDok",0.3
+"bone_sparing","Bone-sparing patient","DYSM",1.5
+"bone_sparing","Bone-sparing patient","NMPP",1.5
+"bone_sparing","Bone-sparing patient","DYSP",0.5
+"bone_sparing","Bone-sparing patient","NoHF",1
+"bone_sparing","Bone-sparing patient","BMDok",3

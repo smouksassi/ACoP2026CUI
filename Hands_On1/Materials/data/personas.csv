@@ -1,0 +1,13 @@
+"persona","label","endpoint","weight"
+"default_balanced","Task A — balanced (ORR twice each safety)","ORR",2
+"default_balanced","Task A — balanced (ORR twice each safety)","NoNEU",1
+"default_balanced","Task A — balanced (ORR twice each safety)","NoDR",1
+"efficacy_priority","Task B — efficacy priority","ORR",8
+"efficacy_priority","Task B — efficacy priority","NoNEU",1
+"efficacy_priority","Task B — efficacy priority","NoDR",1
+"safety_priority","Task C — safety priority","ORR",2
+"safety_priority","Task C — safety priority","NoNEU",4
+"safety_priority","Task C — safety priority","NoDR",4
+"equal","Equal raw weights","ORR",1
+"equal","Equal raw weights","NoNEU",1
+"equal","Equal raw weights","NoDR",1
